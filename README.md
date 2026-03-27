@@ -2,6 +2,9 @@
 
 A Windows desktop utility that automates the process of pulling a formatted table from an Excel workbook and composing a daily Outlook email with that table embedded — preserving all cell formatting.
 
+<img width="747" height="748" alt="Screenshot 2025-07-28 091924" src="https://github.com/user-attachments/assets/8fb9dc84-25b8-4b20-9d2e-beab6dbbdd3d" />
+
+
 ---
 
 ## Requirements
