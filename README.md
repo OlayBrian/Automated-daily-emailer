@@ -29,7 +29,7 @@ A Windows desktop utility that automates the process of pulling a formatted tabl
    ```
 3. Run the script:
    ```bash
-   python "UI Automated Daily Subpoena Transmission SLO Report.py"
+   python "UI Automated Report.py"
    ```
 
 ---
@@ -47,7 +47,7 @@ A Windows desktop utility that automates the process of pulling a formatted tabl
 |---|---|
 | **To** | Primary recipient email address(es) |
 | **CC** | CC recipient email address(es) |
-| **Subject** | Defaults to today's date (e.g., `Daily Subpoena Transmission SLO Report – March 27, 2025`) |
+| **Subject** | Defaults to today's date (e.g., `Daily Report – March 27, 2025`) |
 | **Body (Before Table)** | Text inserted above the pasted table (default: `Good morning,`) |
 | **Body (After Table)** | Text inserted below the pasted table (default: `Thank you.`) |
 
