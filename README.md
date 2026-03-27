@@ -1,4 +1,4 @@
-# Daily Subpoena Transmission SLO Report Tool
+# Daily Report Tool
 
 A Windows desktop utility that automates the process of pulling a formatted table from an Excel workbook and composing a daily Outlook email with that table embedded — preserving all cell formatting.
 
